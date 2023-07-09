@@ -6,6 +6,8 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=rydkrm&label=Profile%20views&color=0e75b6&style=flat" alt="rydkrm" /> </p>
 </div>
 
+<p align="left"> <a href="https://www.linkedin.com/in/riyad-karim-035b31264/" target="blank"><img src="https://img.shields.io/badge/riyad-karim-035b31264?style=for-the-badge&logo=linkedin&logoColor=white" alt="riyadhasan242" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/riyadhasan242" target="blank"><img src="https://img.shields.io/twitter/follow/riyadhasan242?logo=twitter&style=for-the-badge" alt="riyadhasan242" /></a> </p>
 
 - 🔭 I’m currently working on [MERN Stack](https://github.com/RydKrm/React-firebase-freshShop-Ecommerce-app)

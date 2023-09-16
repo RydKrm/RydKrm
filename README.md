@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **MERN Stack and Improving my Competitive Programming Skills**
 
-- 👯 I’m looking to collaborate on [MERN Project](https://github.com/RydKrm/React-Redux-Tailwind-Pizza-Ordering-App)
+- 👯 I’m looking to collaborate on Open Source Contribution (https://github.com/RydKrm/React-Redux-Tailwind-Pizza-Ordering-App)
 
-- 💬 Ask me about **React, Node.js,**
+- 💬 Ask me about **React, Node.js,MongoDB, Data Structure, Algorithm**
 
 - 📫 How to reach me **alriyadkarim@gmail.com**
 

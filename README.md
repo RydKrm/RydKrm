@@ -1,4 +1,6 @@
-<img align="center" width="1080px" src="https://i.ibb.co/JzjJ7wR/github-header-image.png" />
+<!--
+<img align="center" width="1080px" src="https://i.ibb.co/JzjJ7wR/github-header-image.png" />  -->
+
 <h1 align="center">Hi 👋, I'm Al Riyad Karim</h1>
 <h3 align="center">I am Competitive Programmer and MERN Stack Developer</h3>
 <div> 

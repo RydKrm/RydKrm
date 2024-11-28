@@ -2,7 +2,7 @@
 <!-- <img align="center" width="1080px" src="https://i.ibb.co/JzjJ7wR/github-header-image.png" /> -->
 
 <h1 align="center">Hi 👋, I'm Al Riyad Karim</h1>
-<h3 align="center">Competitive Programmer and MERN Stack Developer</h3>
+<h3 align="center">Competitive Programmer and Web Developer</h3>
 
 <!-- Profile Views -->
 <p align="left">
@@ -87,7 +87,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rydkrm" height="30" width="40" />
   </a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -178,12 +178,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
 </p>
-
+ -->
 <!-- GitHub Stats -->
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rydkrm&show_icons=true&locale=en&layout=compact" alt="rydkrm" />
 </p>
-
+-->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rydkrm&show_icons=true&locale=en" alt="rydkrm" />
 </p>

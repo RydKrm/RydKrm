@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Al+Riyad+Karim;Software+Engineer;%F0%9F%92%A4+Problem+Solver)](https://git.io/typing-svg)
-<img src="/cover.png"/></a>
+<img src="/cover.png"/>
+<h1> Al Riyad Karim </h1>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Software+Engineer;%F0%9F%92%A4+Competitive+Programmer;%F0%9F%92%A4+Backend+Developer)](https://git.io/typing-svg)
+-->
+Self-motivated software engineer, I am like an architect who designs and Develops digital Products with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I approach every project critically and creatively, analyzing problems and finding innovative solutions.
 
-## About Me || [RESUME][resume]
+### [RESUME][resume]
+[resume]: https://drive.google.com/file/d/1FAhfRBTKQbM5Bu7fOg4YjT0YzXOO8zII
 
-Self-motivated software engineer, I am like an architect who designs and Develops digital Products with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies.
-I approach every project critically and creatively, analyzing problems and finding innovative solutions.
+
 
 ### Current Overview
 

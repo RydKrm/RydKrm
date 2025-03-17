@@ -7,10 +7,9 @@ for continuous learning and staying up-to-date with the latest industry trends a
 project critically and creatively, analyzing problems and finding innovative solutions.
 
 ### [RESUME][resume]
-[resume]:https://drive.google.com/file/d/1FAhfRBTKQbM5Bu7fOg4YjT0YzXOO8zII
+[resume]:https://drive.google.com/file/d/1M5HU1ev6dDKUmakWrjNMJ0151JCVB7Sw/view?usp=drive_link
 
-**🥅 Goals of 2025 🥅** - **_Microservices Architecture, Golang, gRPC, GraphQL, Redis, NATS,
-rabbitmq, kafka, Docker, kubernetes, AWS, Core Networking. Core Database_**
+**🥅 Goals of 2025 🥅** - **_Microservices Architecture, Golang, gRPC, GraphQL, Redis, Rabbitmq, Docker, AWS, Core Networking. Core Database_**
 <img
    align="right"
    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
@@ -18,7 +17,8 @@ rabbitmq, kafka, Docker, kubernetes, AWS, Core Networking. Core Database_**
    width="15%"
 />
 
-**🤝 I’m looking** - To collaborate on open-source projects.
+**🤝 I’m looking** - To collaborate on open-source projects
+
 **🧣 I’m currently ready to work ->**
 - **Languages:** Golang, JavaScript, TypeScript, C/C++,
 - **Front-End:** ReactJS, NextJS, TailwindCSS, Redux, React Hook From,
